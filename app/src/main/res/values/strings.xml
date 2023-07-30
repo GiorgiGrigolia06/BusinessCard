@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_lastName">Giorgi Grigolia</string>
+    <string name="job_position">Android Developer Extraordinaire</string>
+    <string name="phone_number">+995 571 36 06 36</string>
+    <string name="social_media">\@GiorgiGrigolia06</string>
+    <string name="email_address">grigolialive@gmail.com</string>
+</resources>
